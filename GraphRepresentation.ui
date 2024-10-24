@@ -1,0 +1,22 @@
+<UI version="4.0" >
+ <class>GraphRepresentationClass</class>
+ <widget class="QWidget" name="GraphRepresentationClass" >
+  <property name="objectName" >
+   <string notr="true">GraphRepresentationClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>GraphRepresentation</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <connections/>
+</UI>

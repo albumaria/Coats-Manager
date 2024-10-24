@@ -1,0 +1,9 @@
+S,Blue,200,12,https://ro.pinterest.com/pin/55591376641495669/
+XS,Pink,220,4,https://ro.pinterest.com/pin/586875395219262436/
+XXL,Orange,175,11,https://ro.pinterest.com/pin/9077636740769258/
+M,Clear,110,7,https://ro.pinterest.com/pin/661395895302748144/
+S,Black,290,2,https://ro.pinterest.com/pin/738801513896682565/
+S,White,245,10,https://ro.pinterest.com/pin/1477812372052020/
+XL,Yellow,120,10,https://ro.pinterest.com/pin/572942383866660164/
+XL,Beige,240,12,https://ro.pinterest.com/pin/104005072661407178/
+XS,Sage,100,4,https://ro.pinterest.com/pin/224335625187707177/
